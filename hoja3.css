@@ -1,0 +1,10 @@
+body{
+    background: rgb(204, 209, 209);
+}
+
+.title{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}

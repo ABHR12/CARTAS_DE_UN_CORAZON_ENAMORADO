@@ -1,0 +1,39 @@
+body{
+    background-image: url("fondo.jpg");
+
+}
+.titulo{
+    text-align: center;
+    background: #00000084;
+}
+.uno{
+ background: #111111b6;
+ text-align: center;
+}
+.dos{
+    background: #111111a7;
+    text-align: center;
+}
+.tres{
+    background: #111111aa;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+} 
+h3{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+h5{
+    color:rgb(255, 254, 254);
+    text-align: justify;
+}
+
+.opasidad:hover img{
+    opacity:0.6;
+}
+.bt{
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+body{
+    background: rgb(174, 214, 241) ;
+}
+
+.title{
+    text-align: center;
+}
+
+.opasidad:hover img{
+    opacity:0.6;
+}

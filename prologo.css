@@ -1,0 +1,28 @@
+body{
+    background-image: url("fondo2.jpg");
+}
+
+h1{
+    text-align: center;
+   color: rgb(0, 0, 0);
+}
+
+h3{
+    text-align: center;
+    color:rgb(255, 255, 255) ;
+}
+.uno{
+    background: rgba(0, 0, 0, 0.477);
+}
+.opasidad:hover img{
+    opacity:0.6;
+}
+.bt{
+    text-align: center;
+}
+.nota{
+    background: rgba(0, 0, 0, 0.477);
+}
+p{
+  color: aliceblue;
+}
